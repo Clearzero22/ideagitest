@@ -24,6 +24,7 @@ import Link from './components/Link.vue';
   <div>提交dev的相关内容</div>
 
   <div>测试内容哈哈哈</div>
+  <div>这个是新的测试内容主要是master版本</div>
 
 </template>
 
