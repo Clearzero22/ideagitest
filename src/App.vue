@@ -21,6 +21,8 @@ import Link from './components/Link.vue';
   <h1>使用我的border组件</h1>
   <MyLayout/>
 
+  <div>测试内容哈哈哈</div>
+
 </template>
 
 <style scoped>
