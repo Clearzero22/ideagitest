@@ -27,6 +27,8 @@ import Link from './components/Link.vue';
   <div>这是dev 开发的相关功能测试</div>
   <div>这个是新的测试内容</div>
 
+  <div>第一次这个是 dev 的功能进行修改</div>
+
 </template>
 
 <style scoped>
