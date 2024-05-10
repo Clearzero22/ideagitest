@@ -31,6 +31,8 @@ import Link from './components/Link.vue';
 
   <div>编写我的代码测试去推送到远端的分支</div>
 
+  <div>简单修改我的代码</div>
+
 </template>
 
 <style scoped>
