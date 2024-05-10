@@ -25,6 +25,7 @@ import Link from './components/Link.vue';
 
   <div>测试内容哈哈哈</div>
   <div>这是dev 开发的相关功能测试</div>
+  <div>这个是新的测试内容</div>
 
 </template>
 
